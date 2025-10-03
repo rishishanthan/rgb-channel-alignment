@@ -43,12 +43,12 @@ Each raw input consists of three stacked grayscale images:
 ### 5. Final Script Usage
 Run the script as:
 python3 untitled.py \
-  --input /data/test_image_1.jpg \
-  --output /results/test_1_aligned.png
+  --input /tests/test_image_1.jpg \
+  --output /results/test_1_aligned.jpg
   
 ## ✅ Elample Result
-![Input (stacked grayscale plates)](/data/test_image_1.jpg)
-![Output (aligned RGB image)](/results/test_1_aligned.png)
+![Input (stacked grayscale plates)](/results/test_image_1.jpg)
+![Output (aligned RGB image)](/results/test_1_aligned.jpg)
 
 ## ⚙️ Dependencies
 - Python 3.x
