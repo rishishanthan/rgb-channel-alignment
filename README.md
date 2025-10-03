@@ -47,7 +47,11 @@ python3 untitled.py \
   --output /results/test_1_aligned.jpg
   
 ## ✅ Elample Result
+#### Input - stacked grayscale plates
 ![Input (stacked grayscale plates)](/tests/test_image_1.jpg)
+
+#### Output - aligned RGB image 
+
 ![Output (aligned RGB image)](/results/test_1_aligned.jpg)
 
 ## ⚙️ Dependencies
